@@ -1,0 +1,20 @@
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\diddyKong.mdf
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\diddyKong_log.ldf
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\Question 1e.exe.config
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\Question 1e.exe
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\Question 1e.pdb
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\Question 1e.xml
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.vbproj.AssemblyReference.cache
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\MainWindow.g.vb
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Application.g.vb
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e_Content.g.vb
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e_MarkupCompile.cache
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e_MarkupCompile.lref
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\MainWindow.baml
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.g.resources
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question_1e.Resources.resources
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.vbproj.GenerateResource.cache
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.vbproj.CoreCompileInputs.cache
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.exe
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.xml
+C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.pdb
