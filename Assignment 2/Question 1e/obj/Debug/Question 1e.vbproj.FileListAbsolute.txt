@@ -4,7 +4,6 @@ C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Fi
 C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\Question 1e.exe
 C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\Question 1e.pdb
 C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\bin\Debug\Question 1e.xml
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e.vbproj.AssemblyReference.cache
 C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\MainWindow.g.vb
 C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Application.g.vb
 C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\Git Files\Assignment 2\Question 1e\obj\Debug\Question 1e_Content.g.vb
