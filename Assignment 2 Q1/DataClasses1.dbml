@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="diddyKong" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\diddyKong.mdf;Integrated Security=True" SettingsObjectName="Assignment_2_Q1.My.MySettings" SettingsPropertyName="diddyKongConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Viewer" Member="Viewers">
+    <Type Name="Viewer">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="title_Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="release_Year" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="release_Month" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="game_Platform" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="designers" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
