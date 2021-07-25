@@ -1,7 +1,0 @@
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\4VIS1_041190306_ASSIGNMENT2\Assignment 2 Q1\obj\Debug\net5.0-windows\Assignment 2 Q1.vbproj.AssemblyReference.cache
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\4VIS1_041190306_ASSIGNMENT2\Assignment 2 Q1\obj\Debug\net5.0-windows\Assignment_2_Q1.Form1.resources
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\4VIS1_041190306_ASSIGNMENT2\Assignment 2 Q1\obj\Debug\net5.0-windows\Assignment 2 Q1.vbproj.GenerateResource.cache
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\4VIS1_041190306_ASSIGNMENT2\Assignment 2 Q1\obj\Debug\net5.0-windows\Assignment 2 Q1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\4VIS1_041190306_ASSIGNMENT2\Assignment 2 Q1\obj\Debug\net5.0-windows\Assignment 2 Q1.AssemblyInfoInputs.cache
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\4VIS1_041190306_ASSIGNMENT2\Assignment 2 Q1\obj\Debug\net5.0-windows\Assignment 2 Q1.AssemblyInfo.vb
-C:\Personal\WOU\Sem 5\TCC12305 VISUAL PROGRAMMING\Assignment\ASSIGNMENT 2\4VIS1_041190306_ASSIGNMENT2\Assignment 2 Q1\obj\Debug\net5.0-windows\Assignment 2 Q1.vbproj.CoreCompileInputs.cache
